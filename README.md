@@ -110,4 +110,10 @@ CompassQibla.Builder(this)
     }.build()
 ```
 
+## Sample App
+Also you can check the sample app to get reference about this library
+
+<img src="https://user-images.githubusercontent.com/32610660/174979414-1780bd66-613a-4606-af64-47ba1b9b55a9.gif" width="30%" />
+
+
 Keep chill and enjoyy 😎✨
